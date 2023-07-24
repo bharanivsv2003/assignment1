@@ -1,0 +1,18 @@
+h1{text-align: center;
+    padding: 12px;
+    background-color: grey;
+     color: black;} 
+
+    h3{ 
+        text-align: center;
+        padding-block: 6px;
+        background-color: grey;
+    }
+        .container{
+            max-width: min-content=20%; 
+            margin-left: 35% ;
+            margin-right: 35%;
+           ;
+            
+        }
+        
